@@ -1,0 +1,2 @@
+This is a test file named file2.txt.
+It contains some sample text for testing purposes.
